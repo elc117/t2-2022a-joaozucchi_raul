@@ -3,6 +3,7 @@
 <h2> Slides:[Recursão, condicionais e I_O em Prolog (1).pdf](https://github.com/elc117/t2-2022a-joaozucchi_raul/files/8847028/Recursao.condicionais.e.I_O.em.Prolog.1.pdf)
  </h2>
 
+<h2> REFERÊNCIAS </h2>
 <ul> 
   <li> https://en.wikibooks.org/wiki/Prolog/Recursive_Rules </li> 
   <li> [https://en.wikibooks.org/wiki/Prolog/Recursive_Rules ](http://www.let.rug.nl/bos/lpn//lpnpage.php?pagetype=html&pageid=lpn-htmlse9) </li> 
