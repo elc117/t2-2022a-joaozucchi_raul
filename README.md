@@ -1,10 +1,6 @@
-# heading1
-Recursão, condicionais e I/O em Prolog
-## heading2
-Trabalho feito por João Carlos Zucchi e Raul Steinmetz
-## heading3
-Slides: [Slides do Conteúdo](RaulEJoaoRecursividade.pdf)
-
+# Recursão, condicionais e I/O em Prolog
+## Trabalho feito por João Carlos Zucchi e Raul Steinmetz
+## Slides: [Slides do Conteúdo](RaulEJoaoRecursividade.pdf)
 
 <h2> REFERÊNCIAS </h2>
 <ul> 
