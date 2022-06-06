@@ -1,6 +1,6 @@
 <h1> Recursão, condicionais e I/O em Prolog </h1>
 <h2> Trabalho feito por João Carlos Zucchi e Raul Steinmetz</h2>
-<h2> Slides:[Recursão, condicionais e I_O em Prolog (1).pdf](https://github.com/elc117/t2-2022a-joaozucchi_raul/files/8847028/Recursao.condicionais.e.I_O.em.Prolog.1.pdf)
+<h2> Slides:[Recursão, condicionais e I_O em Prolog.pdf](https://github.com/elc117/t2-2022a-joaozucchi_raul/files/8847028/Recursao.condicionais.e.I_O.em.Prolog.1.pdf)
  </h2>
 
 <h2> REFERÊNCIAS </h2>
